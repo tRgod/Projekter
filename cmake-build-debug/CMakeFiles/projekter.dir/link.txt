@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/projekter.dir/main.cpp.o  -o projekter 
